@@ -38,3 +38,17 @@ img{
 .banner{
     padding: 50px 0;
 }
+/* songs */
+.songs-section-item {
+    margin-bottom: 35px;
+}
+.songs-section-item-top-img{
+    max-width: 90%;
+    min-height: 90%;
+    text-align: center;
+    max-height: 200px;
+    min-height: 200px;
+    object-fit: contain;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
