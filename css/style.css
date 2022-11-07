@@ -15,6 +15,10 @@ h1{
     font-weight: 600;
     color: #4C4B4B;
 }
+h3{
+    font-size: 27px;
+    font-weight: 500;
+}
 .banner-h1 span{
     color: var(--color-primary);
 }
@@ -43,11 +47,9 @@ img{
     margin-bottom: 35px;
 }
 .songs-section-item-top-img{
-    max-width: 90%;
-    min-height: 90%;
     text-align: center;
-    max-height: 200px;
-    min-height: 200px;
+    max-height: 190px;
+    min-height: 190px;
     object-fit: contain;
     overflow: hidden;
     margin-bottom: 15px;
